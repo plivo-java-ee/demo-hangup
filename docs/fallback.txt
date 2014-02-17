@@ -1,0 +1,18 @@
+2014-02-16 11:20:28,942 INFO  [stdout] (default task-16) FallbackServlet START
+2014-02-16 11:20:28,943 INFO  [stdout] (default task-16) CallStatus
+2014-02-16 11:20:28,957 INFO  [stdout] (default task-16) ringing
+2014-02-16 11:20:28,963 INFO  [stdout] (default task-16) CallerName
+2014-02-16 11:20:28,965 INFO  [stdout] (default task-16) +393922274929
+2014-02-16 11:20:28,968 INFO  [stdout] (default task-16) Event
+2014-02-16 11:20:28,968 INFO  [stdout] (default task-16) StartApp
+2014-02-16 11:20:28,978 INFO  [stdout] (default task-16) To
+2014-02-16 11:20:28,981 INFO  [stdout] (default task-16) 17706150203
+2014-02-16 11:20:28,981 INFO  [stdout] (default task-16) CallUUID
+2014-02-16 11:20:28,986 INFO  [stdout] (default task-16) 3f51aea0-9726-11e3-95b5-cdd485f573ea
+2014-02-16 11:20:28,986 INFO  [stdout] (default task-16) Direction
+2014-02-16 11:20:28,992 INFO  [stdout] (default task-16) inbound
+2014-02-16 11:20:28,993 INFO  [stdout] (default task-16) From
+2014-02-16 11:20:28,993 INFO  [stdout] (default task-16) 393922274929
+2014-02-16 11:20:28,999 INFO  [stdout] (default task-16) BillRate
+2014-02-16 11:20:29,011 INFO  [stdout] (default task-16) 0.00850
+2014-02-16 11:20:29,012 INFO  [stdout] (default task-16) FallbackServlet STOP

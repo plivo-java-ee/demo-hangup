@@ -1,0 +1,15 @@
+CallStatus
+CallerName
+Event
+To
+CallUUID
+TotalCost
+AnswerTime
+Direction
+BillRate
+HangupCause
+Duration
+BillDuration
+EndTime
+StartTime
+From

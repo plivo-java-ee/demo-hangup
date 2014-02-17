@@ -1,0 +1,12 @@
+2014-02-16 11:19:51,566 INFO  [stdout] (default task-14) MessageServlet START
+2014-02-16 11:19:51,571 INFO  [stdout] (default task-14) Text
+2014-02-16 11:19:51,571 INFO  [stdout] (default task-14) Ila chico
+2014-02-16 11:19:51,575 INFO  [stdout] (default task-14) Type
+2014-02-16 11:19:51,577 INFO  [stdout] (default task-14) sms
+2014-02-16 11:19:51,577 INFO  [stdout] (default task-14) To
+2014-02-16 11:19:51,581 INFO  [stdout] (default task-14) 17706150203
+2014-02-16 11:19:51,581 INFO  [stdout] (default task-14) MessageUUID
+2014-02-16 11:19:51,582 INFO  [stdout] (default task-14) 2948c1d4-9726-11e3-8556-842b2b55f84d
+2014-02-16 11:19:51,585 INFO  [stdout] (default task-14) From
+2014-02-16 11:19:51,585 INFO  [stdout] (default task-14) 393922274929
+2014-02-16 11:19:51,586 INFO  [stdout] (default task-14) MessageServlet STOP

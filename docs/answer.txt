@@ -1,0 +1,18 @@
+2014-02-16 11:20:28,443 INFO  [stdout] (default task-15) AnswerServlet START
+2014-02-16 11:20:28,444 INFO  [stdout] (default task-15) CallStatus
+2014-02-16 11:20:28,452 INFO  [stdout] (default task-15) ringing
+2014-02-16 11:20:28,452 INFO  [stdout] (default task-15) CallerName
+2014-02-16 11:20:28,453 INFO  [stdout] (default task-15) +393922274929
+2014-02-16 11:20:28,460 INFO  [stdout] (default task-15) Event
+2014-02-16 11:20:28,463 INFO  [stdout] (default task-15) StartApp
+2014-02-16 11:20:28,465 INFO  [stdout] (default task-15) To
+2014-02-16 11:20:28,475 INFO  [stdout] (default task-15) 17706150203
+2014-02-16 11:20:28,475 INFO  [stdout] (default task-15) CallUUID
+2014-02-16 11:20:28,486 INFO  [stdout] (default task-15) 3f51aea0-9726-11e3-95b5-cdd485f573ea
+2014-02-16 11:20:28,486 INFO  [stdout] (default task-15) Direction
+2014-02-16 11:20:28,487 INFO  [stdout] (default task-15) inbound
+2014-02-16 11:20:28,503 INFO  [stdout] (default task-15) From
+2014-02-16 11:20:28,503 INFO  [stdout] (default task-15) 393922274929
+2014-02-16 11:20:28,509 INFO  [stdout] (default task-15) BillRate
+2014-02-16 11:20:28,528 INFO  [stdout] (default task-15) 0.00850
+2014-02-16 11:20:28,531 INFO  [stdout] (default task-15) AnswerServlet STOP
